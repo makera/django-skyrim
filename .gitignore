@@ -1,5 +1,6 @@
 db.sqlite3
 .vscode/*
+.idea
 
 config/__pycache__/*
 skyrim/__pycache__/*
